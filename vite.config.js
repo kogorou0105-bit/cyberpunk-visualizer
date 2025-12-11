@@ -9,6 +9,7 @@ const __dirname = path.dirname(__filename);
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  base: "/cyberpunk-visualizer/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"), // 把 @ 映射到 src 目录

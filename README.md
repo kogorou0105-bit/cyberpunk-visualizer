@@ -1,4 +1,4 @@
-# 🎵 Cyberpunk Audio Visualizer / 赛博朋克音频可视化引擎
+# 🎵 Audio Visualizer / 音频可视化引擎
 
 > An interactive, high-performance audio visualization experiment built with React, Vite, and the Web Audio API.
 >
@@ -11,6 +11,10 @@ This project transforms audio frequencies into a real-time, cyberpunk-aesthetic 
 
 **中文**
 本项目将音频频率转化为实时的赛博朋克风格视觉体验。与普通的可视化工具不同，它内置了一个**交互式合成器**层，允许用户在音乐播放的同时通过点击屏幕进行“即兴演奏”。项目在极具未来感的 UI 包裹下，实现了被动聆听与主动创造的融合。
+
+## 🔗 Live Demo / 在线演示
+
+**[👉 Live](https://kogorou0105-bit.github.io/cyberpunk-visualizer/)**
 
 ## ✨ Key Features / 核心功能
 
